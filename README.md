@@ -1,6 +1,4 @@
 # Parallel-Computing
-A collection of parallel codes for random mathematical formulae using OpenMP
-
-## Covariance
+A collection of parallel codes OpenMP
 
 
