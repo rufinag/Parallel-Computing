@@ -1,4 +1,4 @@
 # Parallel-Computing
-A collection of parallel codes using OpenMP
+A collection of codes parallelized using OpenMP
 
 
