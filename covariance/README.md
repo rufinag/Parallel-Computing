@@ -1,3 +1,4 @@
+## Covariance of a Matrix
 ### sequential.h
 Functions to carry out the calculation of the covariance of a matrix sequentially
 ### parallel.h
